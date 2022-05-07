@@ -1,7 +1,10 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-pony)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&theme=radical&count_private=true&card_width=200&cache_seconds=86400&locale=cn&card_width=20)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+### 🌱 I’m currently learning ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&show_icons=true&theme=radical&cache_seconds=86400&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
