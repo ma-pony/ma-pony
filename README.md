@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-You are my ![Visitor Count](https://vbr.nathanchung.dev/badge?logo=pythonanywhere&page_id=ma-pony&style=#304CB2) visitor, Thank You!🎉🎉
+You are my ![Visitor Count](https://vbr.nathanchung.dev/badge?logo=pythonanywhere&style=#304CB2&page_id=ma-pony) visitor, Thank You!🎉🎉
 
 
 
