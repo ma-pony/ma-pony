@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/ma-pony/count.svg) visitor, Thank You!🎉🎉
+You are my ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=ma-pony) visitor, Thank You!🎉🎉
 
 
 
