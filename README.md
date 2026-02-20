@@ -5,8 +5,17 @@ You are my ![Visitor Count](https://vbr.nathanchung.dev/badge?logo=pythonanywher
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true&count_private=true&cache_seconds=3600" alt="Pony's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact&theme=flag-india&hide_border=true&cache_seconds=3600" /></a> |
-| ------------- | ------------- |
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma-pony/ma-pony/output/github-contribution-grid-snake-dark.svg">
