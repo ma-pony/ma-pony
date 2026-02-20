@@ -3,7 +3,7 @@
 
 You are my ![Visitor Count](https://vbr.nathanchung.dev/badge?logo=pythonanywhere&page_id=ma-pony) visitor, Thank You!🎉🎉
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-pony)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
