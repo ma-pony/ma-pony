@@ -41,21 +41,12 @@
   </tr>
 </table>
 
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true"/>
-  <img alt="Pony's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact&hide_border=true&langs_count=8"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact&hide_border=true&langs_count=8"/>
-</picture>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma-pony/ma-pony/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ma-pony/ma-pony/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ma-pony/ma-pony/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+</div>
