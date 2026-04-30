@@ -44,9 +44,9 @@
 ### GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img alt="Pony's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true"/>
+  <img alt="Pony's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ma-pony&show_icons=true&hide_border=true"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-pony&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
